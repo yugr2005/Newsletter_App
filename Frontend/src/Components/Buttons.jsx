@@ -54,6 +54,11 @@ export function Button() {
                     className="bg-gray-800 hover:bg-gray-700 text-white px-4 py-2 rounded-lg transition duration-300">
                     Trending
                 </button>
+                <button
+                    onClick={() => { setSearch("Trending") }}
+                    className="bg-gray-800 hover:bg-gray-700 text-white px-4 py-2 rounded-lg transition duration-300">
+                    Apple
+                </button>
             </div>
 
             {/* Results Section */}

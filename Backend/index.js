@@ -35,5 +35,3 @@ app.post('/news', async(req,res) => {
 app.listen(port, () => {
     console.log(`Server is running on ${port}.`)
 })
-
-// https://newsapi.org/v2/everything?q=POLITICS&apiKey=565db8a1c1814d738335632cfd618432

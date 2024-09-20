@@ -7,7 +7,6 @@ This project is a web application that displays the latest world news with a sea
 
 - **Latest News**: Displays the latest global news headlines.
 - **Search Functionality**: Users can search for news articles using keywords.
-- **Responsive Design**: The layout adapts to different screen sizes for a smooth experience on both desktop and mobile devices.
 - **Real-time Updates**: News articles are updated regularly to reflect current world events.
 - **Easy Navigation**: Clean and simple UI for intuitive navigation.
 
@@ -38,7 +37,7 @@ Follow these instructions to set up and run the project on your local machine.
 Make sure you have the following installed:
 
 - Node.js
-- npm (or yarn)
+- npm
 
 ### Installation
 
@@ -51,8 +50,8 @@ Make sure you have the following installed:
 If you have any questions, suggestions, or feedback, feel free to reach out to me:
 
 - **Email**: yugr2005@gmail.com
-- **GitHub**: [https://github.com/yugr2005](https://github.com/your-username)
-- **LinkedIn**: [https://www.linkedin.com/in/yug-patel004/](https://twitter.com/your-twitter-handle)
+- **GitHub**: https://github.com/yugr2005
+- **LinkedIn**: https://www.linkedin.com/in/yug-patel004/
 
 I’m always open to collaboration and happy to hear any input that could improve this project!
 
